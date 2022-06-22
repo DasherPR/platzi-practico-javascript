@@ -14,3 +14,8 @@ Projects from practic javascript course from Platzi
 - Segundo: Implementar formulas en JavaScript
 - Tercero: Crear funciones
 - Cuarto: Integrar JS con HTML
+
+## Taller #3: Promedio, Mediana  y Moda
+- Primero: Definir las formulas
+- Segundo: Implementar formulas en JavaScript
+- Tercero: Crear funciones
